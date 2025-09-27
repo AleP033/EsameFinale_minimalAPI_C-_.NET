@@ -1,0 +1,6 @@
+@ITS31_EsameFinale_HostAddress = http://localhost:5008
+
+GET {{ITS31_EsameFinale_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
